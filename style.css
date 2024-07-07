@@ -1,0 +1,25 @@
+.apple-logo{
+    background-color: black;
+}
+.apple .box1{
+ 
+    text-align: center;
+    
+}
+.apple .box1 p{
+    width: 548px;
+    font-size: 25px;
+    margin-left: 20rem;
+    color: whitesmoke;
+    
+}
+.box1 span{
+    font-size: 3rem;
+    color: whitesmoke;
+
+}
+.apple .box1 a{
+    font-size: 1.5rem;
+    text-decoration: nones;
+    
+}
